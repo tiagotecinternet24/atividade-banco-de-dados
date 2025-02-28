@@ -6,7 +6,7 @@
 
 ### A. Modelagem Conceitual
 
-Usando o **BrModelo**, faça a **modelagem conceitual** de três entidades: **CURSO**, **PROFESSOR** e **ALUNO**.
+Usando o **BrModelo** (ou outra ferramenta de modelagem conceitual), faça a **modelagem conceitual** de três entidades: **CURSO**, **PROFESSOR** e **ALUNO**.
 
 - A entidade **CURSO** deve conter os seguintes atributos:
 
@@ -34,13 +34,15 @@ Usando o **BrModelo**, faça a **modelagem conceitual** de três entidades: **CU
   
 #### Crie os relacionamentos de acordo com a cardinalidade indicada a seguir:
 
-- **1 curso tem vários alunos**, portanto será usada a cardinalidade **1:N**. 
+- **1 curso tem vários alunos**, portanto será usada a cardinalidade **1:N**.
+
+- **1 aluno faz somente 1 curso**, portanto será usada a cardinalidade **1:1**.
 
 - **1 professor leciona somente 1 curso**, portanto será usada a cardinalidade **1:1**. 
 
 - **1 curso é lecionado somente por 1 professor**, portanto será usada a cardinalidade **1:1**. 
 
-
+Ao final, **exporte o modelo como uma imagem** e a coloque em seu repositório.
 
 
 
