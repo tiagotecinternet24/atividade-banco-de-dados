@@ -1,6 +1,6 @@
 # Atividades de Banco de Dados - Etapa 2
 
-## Modelagem Lógica e Física
+## Modelagem Lógica
 
 ### B. Modelagem Lógica
 
@@ -16,16 +16,8 @@ Agora, na **modelagem lógica**, você deverá **pesquisar qual tipo de dados** 
 
 ---
 
-### C. Modelagem Física
+Ao final, coloque o arquivo de modelagem lógica em seu repositório do exercício em versão original e também exportado em formato de imagem.
 
-Usando o **phpMyAdmin e comandos SQL**, você deve fazer a **modelagem física** de um banco de dados chamado **tecinternet_escola_seunome** e nele criar as **tabelas**, **colunas** e **relacionamentos**.
-
----
-
-### D. Entrega dos arquivos de modelagem lógica e física
-
-- Ao final, coloque o arquivo de modelagem lógica em seu repositório do exercício (em versão original e também exportado em formato de imagem)
-- Exporte um backup SQL do seu banco de dados completo e coloque também em seu repositório
 
 
 
