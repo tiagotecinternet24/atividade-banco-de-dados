@@ -34,7 +34,9 @@ Usando o **BrModelo** (ou outra ferramenta de modelagem conceitual), faça a **m
   
 #### Crie os relacionamentos de acordo com a cardinalidade indicada a seguir:
 
-- **1 curso tem vários alunos**, portanto será usada a cardinalidade **1:N**. 
+- **1 curso tem vários alunos**, portanto será usada a cardinalidade **1:N**.
+
+- **1 aluno faz somente 1 curso**, portanto será usada a cardinalidade **1:1**.
 
 - **1 professor leciona somente 1 curso**, portanto será usada a cardinalidade **1:1**. 
 
