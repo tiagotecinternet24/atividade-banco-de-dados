@@ -6,7 +6,7 @@
 
 ### A. Modelagem Conceitual
 
-Usando o **BrModelo**, faça a **modelagem conceitual** de três entidades: **CURSO**, **PROFESSOR** e **ALUNO**.
+Usando o **BrModelo** (ou outra ferramenta de modelagem conceitual), faça a **modelagem conceitual** de três entidades: **CURSO**, **PROFESSOR** e **ALUNO**.
 
 - A entidade **CURSO** deve conter os seguintes atributos:
 
@@ -40,7 +40,7 @@ Usando o **BrModelo**, faça a **modelagem conceitual** de três entidades: **CU
 
 - **1 curso é lecionado somente por 1 professor**, portanto será usada a cardinalidade **1:1**. 
 
-
+Ao final, **exporte o modelo como uma imagem** e a coloque em seu repositório.
 
 
 
