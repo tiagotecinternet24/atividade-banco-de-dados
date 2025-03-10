@@ -2,9 +2,7 @@
 
 *Antes de começar, crie um novo repositório chamado `seunome_atividade-banco-de-dados` para colocar sua produção.*
 
-## Modelagem Conceitual
-
-### A. Modelagem Conceitual
+## A. Modelagem Conceitual
 
 Usando o **BrModelo** (ou outra ferramenta de modelagem conceitual), faça a **modelagem conceitual** de três entidades: **CURSO**, **PROFESSOR** e **ALUNO**.
 
